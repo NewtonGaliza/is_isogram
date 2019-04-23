@@ -1,1 +1,1 @@
-# is_isogram
+Check if a word is a isogram
